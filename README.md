@@ -1,2 +1,2 @@
 # devops_demo0
-this repo use pull and fetrh request demo (how to use)
+this repo use pull and fetch request demo (how to use)
